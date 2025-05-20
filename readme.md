@@ -33,6 +33,10 @@ networks:
 ```
 make deploy
 ```
+* ou 
+```
+docker-compose up -d
+```
 
 * href
 ```
