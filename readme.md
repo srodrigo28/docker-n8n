@@ -42,3 +42,8 @@ docker-compose up -d
 ```
 https://www.youtube.com/watch?v=CAedO3UaiU8&t=208s
 ```
+
+* href
+```
+https://medium.com/@alan-vieira/rodando-mysql-no-docker-e6e05b727196
+```
