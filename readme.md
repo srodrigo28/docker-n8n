@@ -1,6 +1,5 @@
 
 * instalar no terminal windows em modo administrador
-
 ```
 wsl --install
 ```
@@ -34,4 +33,8 @@ networks:
 ```
 make deploy
 ```
+
+* href
+```
 https://www.youtube.com/watch?v=CAedO3UaiU8&t=208s
+```
